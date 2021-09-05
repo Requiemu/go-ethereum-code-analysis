@@ -9,7 +9,7 @@ p2p的源码又下面几个包
 discover部分的源码分析
 
 - [发现的节点的持久化存储 database.go](p2p-database.go源码分析.md)
-- [Kademlia协议的核心逻辑 tabel.go](p2p-table.go源码分析.md)
+- [Kademlia协议的核心逻辑 table.go](p2p-table.go源码分析.md)
 - [UDP协议的处理逻辑udp.go](p2p-udp.go源码分析.md)
 - [网络地址转换 nat.go](p2p-nat源码分析.md)
 
